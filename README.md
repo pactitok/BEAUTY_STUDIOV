@@ -438,3 +438,26 @@ usuarios y mejora de los procesos del negocio para brindar una mejor atención a
 
 https://1drv.ms/w/c/35260f6afc53de7b/IQCWZEJNeOaIT6y3exHYMVW0ASRJOpiNjP2N-_O_IOlCbQo?e=u21HAQ
 
+# DIAGRAMAS DE FLUJO
+
+## Login
+
+<img width="1208" height="424" alt="image" src="https://github.com/user-attachments/assets/3f29259f-1a06-4358-a7f0-d9b6ef80dd77" />
+
+## Registro de inventario
+
+<img width="1291" height="467" alt="image" src="https://github.com/user-attachments/assets/eea35720-6b4e-4ced-a237-ae80bb0a6586" />
+
+## Otros procesos del sistema
+
+## Control de stock
+
+<img width="1138" height="436" alt="image" src="https://github.com/user-attachments/assets/0841b8d9-3ccf-43b8-ae65-527fea48fb4a" />
+
+## Generación de reportes
+
+<img width="1295" height="383" alt="image" src="https://github.com/user-attachments/assets/f2056027-0137-41d3-9a62-fc74985cb6d6" />
+
+# Enlace precentacion canva
+
+https://www.canva.com/design/DAHHCi82Agg/Qibpb5dipNC8qaB0i-22tw/edit
