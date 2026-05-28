@@ -69,3 +69,260 @@ El sistema deberá hacer lo siguiente:
 * Permitir el acceso mediante roles y permisos de usuario
 
 * Asignar funciones específicas según el cargo de cada usuario dentro del sistema
+
+# 📥 ENTRADAS ( Inputs )
+
+## 1. ¿Qué datos recibe el sistema?
+ 
+El sistema recibe información relacionada con el funcionamiento del negocio, por ejemplo:
+
+Datos de productos:
+
+* Código del producto
+
+* Nombre
+
+* Categoría
+
+* Marca
+
+* Precio
+
+* Cantidad en stock
+
+* Fecha de ingreso
+
+Datos de ventas:
+
+* Producto vendido
+
+* Cantidad
+
+* Precio total
+
+* Fecha de venta
+
+* Método de pago
+
+Datos de usuarios:
+
+* Nombre
+
+* Correo
+
+* Contraseña
+
+*Rol dentro del sistema
+
+Datos de clientes:
+
+* Nombre
+
+*Número de contacto
+
+* Historial de compras
+
+## 2. ¿Quién ingresa los datos?
+
+Los datos son ingresados por los usuarios del sistema según su rol:
+
+Administrador:
+
+* Registra productos
+
+* Gestiona usuarios
+
+* Consulta reportes
+
+* Actualiza inventario
+
+Vendedor/Cajero:
+
+* Registra ventas
+
+* Consulta productos
+
+* Actualiza información básica de ventas
+
+## 3. ¿Qué tipo de datos maneja el sistema?
+
+El sistema maneja diferentes tipos de datos, como:
+
+Texto: Nombres, categorías, correos, marcas y descripciones
+
+Números: Precios, cantidades, códigos, stock y totales de venta
+
+Fechas: Fecha de ventas, ingresos de productos y reportes
+
+## ¿Qué hace el sistema con las entradas?
+
+Además de recibir datos, el sistema también:
+
+* Valida que la información esté correcta
+
+* Guarda la información automáticamente
+
+* Actualiza el inventario en tiempo real
+
+* Genera reportes automáticos
+
+Protege la información según los permisos de cada usuario
+
+# 🛠️ PROCESOS ( Throughput )
+
+## 1. ¿Qué hace el sistema con esos datos?
+
+El sistema procesa la información ingresada para organizar y controlar las actividades del negocio. Con estos datos,
+
+el sistema administra productos, registra ventas, actualiza el inventario y genera reportes para facilitar el manejo de la información.
+
+## 2. ¿Valida los datos?
+
+Sí. El sistema verifica que la información ingresada esté correcta y completa antes de guardarla. Esto ayuda a evitar errores
+
+en registros de productos, ventas o usuarios.
+
+Por ejemplo:
+
+* Verifica que no falten datos obligatorios
+
+* Comprueba que los precios y cantidades sean válidos
+
+* Evita registros duplicados
+
+## 3. ¿Calcula?
+
+Sí. El sistema realiza cálculos automáticos relacionados con las ventas y el inventario.
+
+Por ejemplo:
+
+* Calcula el total de una venta
+
+* Actualiza automáticamente el stock disponible
+
+* Calcula cantidades de productos vendidos
+
+* Genera totales en reportes
+
+## 4. ¿Guarda la información?
+
+Sí. El sistema almacena toda la información de manera automática y segura en la base de datos.
+
+Entre la información guardada se encuentra:
+
+* Productos registrados
+
+* Ventas realizadas
+
+* Datos de usuarios
+
+* Información de clientes
+
+* Reportes e historial de movimientos
+
+# 📤 SALIDAS ( Outputs )
+
+## 1. ¿Qué obtiene el usuario?
+
+El usuario obtiene información organizada y actualizada sobre el funcionamiento del negocio. Puede consultar productos disponibles,
+
+inventario, ventas realizadas, reportes y datos registrados dentro del sistema de manera rápida y sencilla.
+
+## 2. ¿Qué genera el sistema?
+
+El sistema genera diferentes resultados y reportes automáticamente para facilitar el control del negocio.
+
+Por ejemplo:
+
+* Reportes de ventas
+
+* Reportes de inventario
+
+* Historial de productos
+
+* Facturas o comprobantes de venta
+
+* Actualización automática del stock
+
+* Información de usuarios y clientes
+
+## 3. ¿Permite tomar decisiones?
+
+Sí. El sistema ayuda a tomar decisiones gracias a la información y reportes que genera. Esto permite identificar productos más vendidos,
+
+controlar el inventario, conocer las ventas realizadas y detectar posibles faltantes o problemas dentro del negocio. De esta manera,
+
+se mejora la organización y la administración de la tienda.
+
+# 👥 USUARIOS Y ROLES
+
+## 1. ¿Quién usa el sistema?
+
+El sistema es utilizado principalmente por el administrador y el vendedor/cajero de la tienda. Cada usuario ingresa al sistema
+
+para realizar diferentes actividades relacionadas con el manejo del negocio.
+
+## 2. ¿Todos hacen lo mismo?
+
+No. Cada usuario cumple funciones diferentes dentro del sistema según su rol.
+
+🔒 Administrador:
+
+* Gestiona productos
+
+* Controla inventario y stock
+
+* Administra usuarios
+
+* Consulta reportes
+
+* Supervisa la información del sistema
+
+🔓 Vendedor/Cajero:
+
+* Registra ventas
+
+* Consulta productos disponibles
+
+* Atiende clientes
+
+* Actualiza información básica relacionada con ventas
+
+## 3. ¿Hay permisos?
+
+Sí. El sistema cuenta con permisos y roles de usuario para controlar el acceso a las funciones de la plataforma.
+
+Esto permite que cada usuario solo pueda ingresar a las opciones que le corresponden según su cargo, mejorando la seguridad
+
+y organización de la información.
+
+# 📌 INFORMACIÓN MANEJADA
+
+## 1. ¿Qué datos son críticos?
+
+Los datos más importantes para el sistema son aquellos relacionados con el funcionamiento y control del negocio,
+
+ya que permiten llevar una administración correcta de la tienda.
+
+Entre ellos se encuentran:
+
+* Información de productos
+
+* Inventario y stock disponible
+
+* Registro de ventas
+
+* Datos de usuarios
+
+* Información de clientes
+
+* Reportes del sistema
+
+## 2. ¿Qué no se puede perder?
+
+La información que no se puede perder es principalmente el registro de ventas, el inventario y los datos de los productos,
+
+ya que estos son fundamentales para el control del negocio. También es importante conservar la información de usuarios y reportes,
+
+debido a que permiten llevar seguimiento de las actividades realizadas dentro del sistema y mantener la organización de la tienda.
+
