@@ -167,3 +167,55 @@ Además de recibir datos, el sistema también:
 * Genera reportes automáticos
 
 Protege la información según los permisos de cada usuario
+
+# 🛠️ PROCESOS ( Throughput )
+
+## 1. ¿Qué hace el sistema con esos datos?
+
+El sistema procesa la información ingresada para organizar y controlar las actividades del negocio. Con estos datos,
+
+el sistema administra productos, registra ventas, actualiza el inventario y genera reportes para facilitar el manejo de la información.
+
+## 2. ¿Valida los datos?
+
+Sí. El sistema verifica que la información ingresada esté correcta y completa antes de guardarla. Esto ayuda a evitar errores
+
+en registros de productos, ventas o usuarios.
+
+Por ejemplo:
+
+* Verifica que no falten datos obligatorios
+
+* Comprueba que los precios y cantidades sean válidos
+
+* Evita registros duplicados
+
+## 3. ¿Calcula?
+
+Sí. El sistema realiza cálculos automáticos relacionados con las ventas y el inventario.
+
+Por ejemplo:
+
+* Calcula el total de una venta
+
+* Actualiza automáticamente el stock disponible
+
+* Calcula cantidades de productos vendidos
+
+* Genera totales en reportes
+
+## 4. ¿Guarda la información?
+
+Sí. El sistema almacena toda la información de manera automática y segura en la base de datos.
+
+Entre la información guardada se encuentra:
+
+* Productos registrados
+
+* Ventas realizadas
+
+* Datos de usuarios
+
+* Información de clientes
+
+* Reportes e historial de movimientos
