@@ -326,3 +326,62 @@ ya que estos son fundamentales para el control del negocio. También es importan
 
 debido a que permiten llevar seguimiento de las actividades realizadas dentro del sistema y mantener la organización de la tienda.
 
+# OBJETIVOS DEL SISTEMA
+
+## 1. ¿Qué problema soluciona?
+
+El sistema busca solucionar los problemas que existen en el manejo manual de la información dentro del negocio, como errores en el inventario,
+
+pérdida de datos, desorganización en las ventas y demoras en la atención al cliente. Además, permite llevar un mejor control del stock, 
+
+los productos y los reportes de manera automática y segura.
+
+## 2. ¿A qué nivel de decisión impacta el sistema?
+
+El sistema impacta principalmente en el nivel administrativo y operativo del negocio, ya que ayuda a organizar la información,
+
+mejorar el control de las actividades diarias y facilitar la supervisión de productos, ventas e inventario, pero tambien puede impactar
+
+a los siguientes:
+
+Nivel operativo:
+
+Que ya lo mencionamos, que es el sistema que impacta directamente en las actividades diarias del negocio, como el registro de ventas, 
+
+actualización del inventario, control del stock y atención al cliente. Ayuda a que los procesos sean más rápidos, organizados y con menos errores.
+
+Nivel táctico:
+
+El sistema permite supervisar y controlar mejor la información del negocio mediante reportes de ventas, inventario y productos más vendidos. 
+
+Esto ayuda a tomar decisiones relacionadas con la reposición de productos, control de pérdidas y organización del trabajo de los usuarios.
+
+Nivel estratégico:
+
+El sistema contribuye al crecimiento y mejoramiento del negocio a largo plazo, ya que facilita el análisis de la información y permite tomar
+
+decisiones más importantes para el futuro de la tienda, como mejorar la administración, aumentar la eficiencia y ofrecer una mejor atención al cliente.
+
+## 3. ¿Qué decisiones permitirá tomar?
+
+El sistema permitirá tomar decisiones relacionadas con:
+
+* Control del inventario y stock
+
+* Reposición de productos
+
+* Seguimiento de ventas
+
+* Identificación de productos más vendidos
+
+* Organización del trabajo de los usuarios
+
+* Mejoras en la atención al cliente
+
+## 4. ¿Qué pasaría si no existiera ese sistema?
+
+Si el sistema no existiera, la tienda seguiría manejando la información de manera manual, aumentando el riesgo de errores, pérdida de datos y
+
+desorganización. Además, los procesos serían más lentos, dificultando el control del inventario, las ventas y la generación de reportes, lo que 
+
+afectaría el funcionamiento y crecimiento del negocio.
