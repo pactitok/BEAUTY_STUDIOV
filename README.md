@@ -434,3 +434,7 @@ usuarios y mejora de los procesos del negocio para brindar una mejor atención a
 
 <img width="734" height="639" alt="image" src="https://github.com/user-attachments/assets/576f9774-0a49-432e-b8c7-5d798e7c52e1" />
 
+# Interfaz de BEAUTY_STUDIO
+
+https://1drv.ms/w/c/35260f6afc53de7b/IQCWZEJNeOaIT6y3exHYMVW0ASRJOpiNjP2N-_O_IOlCbQo?e=u21HAQ
+
