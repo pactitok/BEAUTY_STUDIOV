@@ -69,3 +69,101 @@ El sistema deberá hacer lo siguiente:
 * Permitir el acceso mediante roles y permisos de usuario
 
 * Asignar funciones específicas según el cargo de cada usuario dentro del sistema
+
+# 📥 ENTRADAS ( Inputs )
+
+## 1. ¿Qué datos recibe el sistema?
+ 
+El sistema recibe información relacionada con el funcionamiento del negocio, por ejemplo:
+
+Datos de productos:
+
+* Código del producto
+
+* Nombre
+
+* Categoría
+
+* Marca
+
+* Precio
+
+* Cantidad en stock
+
+* Fecha de ingreso
+
+Datos de ventas:
+
+* Producto vendido
+
+* Cantidad
+
+* Precio total
+
+* Fecha de venta
+
+* Método de pago
+
+Datos de usuarios:
+
+* Nombre
+
+* Correo
+
+* Contraseña
+
+*Rol dentro del sistema
+
+Datos de clientes:
+
+* Nombre
+
+*Número de contacto
+
+* Historial de compras
+
+## 2. ¿Quién ingresa los datos?
+
+Los datos son ingresados por los usuarios del sistema según su rol:
+
+Administrador:
+
+* Registra productos
+
+* Gestiona usuarios
+
+* Consulta reportes
+
+* Actualiza inventario
+
+Vendedor/Cajero:
+
+* Registra ventas
+
+* Consulta productos
+
+* Actualiza información básica de ventas
+
+## 3. ¿Qué tipo de datos maneja el sistema?
+
+El sistema maneja diferentes tipos de datos, como:
+
+Texto: Nombres, categorías, correos, marcas y descripciones
+
+Números: Precios, cantidades, códigos, stock y totales de venta
+
+Fechas: Fecha de ventas, ingresos de productos y reportes
+
+## ¿Qué hace el sistema con las entradas?
+
+Además de recibir datos, el sistema también:
+
+* Valida que la información esté correcta
+
+* Guarda la información automáticamente
+
+* Actualiza el inventario en tiempo real
+
+* Genera reportes automáticos
+
+Protege la información según los permisos de cada usuario
