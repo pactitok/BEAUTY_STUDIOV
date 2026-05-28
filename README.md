@@ -385,3 +385,43 @@ Si el sistema no existiera, la tienda seguiría manejando la información de man
 desorganización. Además, los procesos serían más lentos, dificultando el control del inventario, las ventas y la generación de reportes, lo que 
 
 afectaría el funcionamiento y crecimiento del negocio.
+
+# OBJETIVOS GENERALES
+
+## objetivo general:
+
+Desarrollar un sistema automatizado que permita gestionar de manera eficiente el inventario, las ventas, el stock y los reportes de la tienda, 
+
+mejorando la organización de la información, reduciendo errores y optimizando la atención al cliente.
+
+## Objetivos específicos:
+
+1. Automatizar el registro y control de productos, ventas e inventario para evitar pérdidas de información y mejorar la organización del negocio.
+
+2. Implementar un sistema de roles y permisos que permita controlar el acceso de los usuarios según sus funciones dentro de la plataforma.
+
+## Nivel de decisión principal que impacta:
+
+El sistema impacta principalmente el nivel operativo, ya que mejora las actividades diarias del negocio como el control de inventario, registro de 
+
+ventas y atención al cliente. Sin embargo, también apoya decisiones tácticas mediante reportes e información organizada.
+
+## Características críticas que debe cumplir
+
+* Registrar información de forma automática y segura.
+
+* Actualizar el inventario en tiempo real.
+
+* Generar reportes de ventas e inventario.
+
+* Contar con roles y permisos de usuario.
+
+* Reducir errores y pérdida de información.
+
+* Facilitar el acceso rápido a los datos.
+
+## ¿Qué decisión permitirá tomar?
+
+El sistema permitirá tomar decisiones relacionadas con el control del inventario, reposición de productos, seguimiento de ventas, organización de 
+
+usuarios y mejora de los procesos del negocio para brindar una mejor atención al cliente.
