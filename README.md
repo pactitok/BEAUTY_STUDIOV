@@ -295,3 +295,34 @@ Sí. El sistema cuenta con permisos y roles de usuario para controlar el acceso 
 Esto permite que cada usuario solo pueda ingresar a las opciones que le corresponden según su cargo, mejorando la seguridad
 
 y organización de la información.
+
+# 📌 INFORMACIÓN MANEJADA
+
+## 1. ¿Qué datos son críticos?
+
+Los datos más importantes para el sistema son aquellos relacionados con el funcionamiento y control del negocio,
+
+ya que permiten llevar una administración correcta de la tienda.
+
+Entre ellos se encuentran:
+
+* Información de productos
+
+* Inventario y stock disponible
+
+* Registro de ventas
+
+* Datos de usuarios
+
+* Información de clientes
+
+* Reportes del sistema
+
+## 2. ¿Qué no se puede perder?
+
+La información que no se puede perder es principalmente el registro de ventas, el inventario y los datos de los productos,
+
+ya que estos son fundamentales para el control del negocio. También es importante conservar la información de usuarios y reportes,
+
+debido a que permiten llevar seguimiento de las actividades realizadas dentro del sistema y mantener la organización de la tienda.
+
