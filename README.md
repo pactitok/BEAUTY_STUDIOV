@@ -461,3 +461,7 @@ https://1drv.ms/w/c/35260f6afc53de7b/IQCWZEJNeOaIT6y3exHYMVW0ASRJOpiNjP2N-_O_IOl
 # Enlace precentacion canva
 
 https://www.canva.com/design/DAHHCi82Agg/Qibpb5dipNC8qaB0i-22tw/edit
+
+# INVENTARIO DE ACTIVOS, “MAPA DE PODER” y RACI
+
+https://1drv.ms/w/c/35260f6afc53de7b/IQBFBT5b5O66RLUF5v_pm-PqASdnjYu3mKCul478GL11MrU?e=oyJmnv
