@@ -429,3 +429,8 @@ usuarios y mejora de los procesos del negocio para brindar una mejor atención a
 # MAPA ORGANIZACIONAL
 
 <img width="1023" height="764" alt="image" src="https://github.com/user-attachments/assets/41a10841-33b1-4c75-90cf-8cfe2e827201" />
+
+# MAPA UML
+
+<img width="734" height="639" alt="image" src="https://github.com/user-attachments/assets/576f9774-0a49-432e-b8c7-5d798e7c52e1" />
+
