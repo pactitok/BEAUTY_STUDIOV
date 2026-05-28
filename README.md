@@ -219,3 +219,37 @@ Entre la información guardada se encuentra:
 * Información de clientes
 
 * Reportes e historial de movimientos
+
+# 📤 SALIDAS ( Outputs )
+
+## 1. ¿Qué obtiene el usuario?
+
+El usuario obtiene información organizada y actualizada sobre el funcionamiento del negocio. Puede consultar productos disponibles,
+
+inventario, ventas realizadas, reportes y datos registrados dentro del sistema de manera rápida y sencilla.
+
+## 2. ¿Qué genera el sistema?
+
+El sistema genera diferentes resultados y reportes automáticamente para facilitar el control del negocio.
+
+Por ejemplo:
+
+* Reportes de ventas
+
+* Reportes de inventario
+
+* Historial de productos
+
+* Facturas o comprobantes de venta
+
+* Actualización automática del stock
+
+* Información de usuarios y clientes
+
+## 3. ¿Permite tomar decisiones?
+
+Sí. El sistema ayuda a tomar decisiones gracias a la información y reportes que genera. Esto permite identificar productos más vendidos,
+
+controlar el inventario, conocer las ventas realizadas y detectar posibles faltantes o problemas dentro del negocio. De esta manera,
+
+se mejora la organización y la administración de la tienda.
