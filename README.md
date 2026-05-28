@@ -253,3 +253,45 @@ Sí. El sistema ayuda a tomar decisiones gracias a la información y reportes qu
 controlar el inventario, conocer las ventas realizadas y detectar posibles faltantes o problemas dentro del negocio. De esta manera,
 
 se mejora la organización y la administración de la tienda.
+
+# 👥 USUARIOS Y ROLES
+
+## 1. ¿Quién usa el sistema?
+
+El sistema es utilizado principalmente por el administrador y el vendedor/cajero de la tienda. Cada usuario ingresa al sistema
+
+para realizar diferentes actividades relacionadas con el manejo del negocio.
+
+## 2. ¿Todos hacen lo mismo?
+
+No. Cada usuario cumple funciones diferentes dentro del sistema según su rol.
+
+🔒 Administrador:
+
+* Gestiona productos
+
+* Controla inventario y stock
+
+* Administra usuarios
+
+* Consulta reportes
+
+* Supervisa la información del sistema
+
+🔓 Vendedor/Cajero:
+
+* Registra ventas
+
+* Consulta productos disponibles
+
+* Atiende clientes
+
+* Actualiza información básica relacionada con ventas
+
+## 3. ¿Hay permisos?
+
+Sí. El sistema cuenta con permisos y roles de usuario para controlar el acceso a las funciones de la plataforma.
+
+Esto permite que cada usuario solo pueda ingresar a las opciones que le corresponden según su cargo, mejorando la seguridad
+
+y organización de la información.
